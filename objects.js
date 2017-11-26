@@ -1,6 +1,6 @@
-function object(playlist) {
+function objects(playlist) {
 var playlist = new object();
-return playlist;
+return objects;
 }
 
 
