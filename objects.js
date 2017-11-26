@@ -1,4 +1,6 @@
 const object = 'playlist'
 
-var object = new object([playlist]);
+var playlist = new object([playlist]);
 return object
+
+playlist
