@@ -1,0 +1,1 @@
+var = new object({playlist})
