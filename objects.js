@@ -1,3 +1,3 @@
 const objects = 'playlist'
 
-var objects = new object({'playlist'});
+var objects = new object([]playlist])
