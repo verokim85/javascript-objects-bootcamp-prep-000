@@ -1,6 +1,4 @@
 const object = 'playlist'
 
 var playlist = new object([playlist]);
-return object
-
-playlist
+return playlist
