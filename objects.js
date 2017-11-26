@@ -1,3 +1,3 @@
-cont objects = 'playlist'
+const objects = 'playlist'
 
 var objects = new object({'playlist'});
