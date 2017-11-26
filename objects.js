@@ -1,4 +1,4 @@
-function objects(playlist) {
+function (playlist) {
 var playlist = new object({artistName: 'songTitle'});
 return objects;
 }
