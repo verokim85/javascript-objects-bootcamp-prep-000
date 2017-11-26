@@ -1,4 +1,4 @@
-const object = 'playlist'
+const playlist = 'playlist'
 
-var playlist = new object([artist names: 'song titles']);
+var playlist = new object({artist names: 'song titles'});
 return playlist
