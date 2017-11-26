@@ -1,4 +1,4 @@
-const objects = 'playlist'
+const object = 'playlist'
 
-var objects = new object([playlist]);
-return objects
+var object = new object([playlist]);
+return object
