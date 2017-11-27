@@ -1,4 +1,4 @@
-var playlist =  new Object({artist names: 'song titles'});
+var playlist =  new Object({artistName: 'songTitle'});
 
 function updatePlaylist(playlist, artistName, songTitle) {
   var playlist = new Object({artistName: 'Phil Ochs', songTitle: 'Here"s to the State of Mississippi'});
